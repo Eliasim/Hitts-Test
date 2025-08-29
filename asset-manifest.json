@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Hitts-Test/static/css/main.edf7fb40.css",
+    "main.js": "/Hitts-Test/static/js/main.2fcd25ac.js",
+    "static/js/453.5b15b33a.chunk.js": "/Hitts-Test/static/js/453.5b15b33a.chunk.js",
+    "static/media/background.jpg": "/Hitts-Test/static/media/background.f4b52a75e00a0b2de706.jpg",
+    "static/media/velocidad-riesgo.png": "/Hitts-Test/static/media/velocidad-riesgo.ac50cddc8f38ccf8e3a1.png",
+    "static/media/team-latam.png": "/Hitts-Test/static/media/team-latam.9aa607e1c48ae5ccd063.png",
+    "static/media/experiencia.png": "/Hitts-Test/static/media/experiencia.84049ee1253ebb5ab256.png",
+    "static/media/travel-meets-fashion.png": "/Hitts-Test/static/media/travel-meets-fashion.ef2ffb13fc7220cbf64e.png",
+    "index.html": "/Hitts-Test/index.html",
+    "main.edf7fb40.css.map": "/Hitts-Test/static/css/main.edf7fb40.css.map",
+    "main.2fcd25ac.js.map": "/Hitts-Test/static/js/main.2fcd25ac.js.map",
+    "453.5b15b33a.chunk.js.map": "/Hitts-Test/static/js/453.5b15b33a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edf7fb40.css",
+    "static/js/main.2fcd25ac.js"
+  ]
+}
